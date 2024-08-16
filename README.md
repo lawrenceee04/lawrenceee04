@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 📝 I’m an upcoming second-year BSIT student at FEATI University
+### 📝 I’m a second-year BSIT student at FEATI University
 Programming languages I use...
 - C
 - C++
