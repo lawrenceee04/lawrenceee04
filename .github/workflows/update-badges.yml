@@ -16,3 +16,5 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          BADGE_SIZE: 300x300
