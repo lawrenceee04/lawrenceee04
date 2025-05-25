@@ -2,9 +2,7 @@
 Developer, Tech Enthusiast, Lifelong Learner
 </h1>
 
-I am Lawrence Garcia, an Information Technology student at FEATI University with a growing specialization in web development. As the President of the <a href="https://github.com/featicompsociety">FEATI Computer Society</a>, I advocate for hands-on learning and collaborative innovation within the tech community.
-
-My passion lies in building modern, user-focused web applications using technologies like HTML, CSS, JavaScript, alongside frameworks and platforms such as React, Supabase, Netlify Functions, and Algolia. I’m particularly interested in crafting scalable, responsive, and maintainable front-end and back-end systems.
+I am Lawrence Garcia, a web development enthusiast with a background in Information Technology. My passion lies in building modern, user-focused web applications using technologies like HTML, CSS, JavaScript, alongside frameworks and platforms such as React, Supabase, Netlify Functions, and Algolia. I’m particularly interested in crafting scalable, responsive, and maintainable front-end and back-end systems.
 
 Whether I'm integrating APIs, implementing dynamic search features, or refining UI/UX experiences, I take pride in creating solutions that are both functional and impactful. Every project is a step forward in my mission to become a well-rounded software developer in the web ecosystem.
 
