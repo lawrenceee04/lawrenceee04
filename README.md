@@ -15,7 +15,6 @@ Whether I'm integrating APIs, implementing dynamic search features, or refining 
 |:---------------------------------------------------:|
 |[Pokedex](https://pokedex-it223-lawrence.netlify.app)|
 |[Cinezone](https://cinezone-lawrence.netlify.app)    |
-|[FEATI Computer Society API](https://featicompsociety.netlify.app)|
 
 ---
 
