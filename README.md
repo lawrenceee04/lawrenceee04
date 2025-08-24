@@ -24,6 +24,7 @@ Whether I'm integrating APIs, implementing dynamic search features, or refining 
 ---
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/a4397e71-5bc3-428b-bb98-9233c1fc5cf8" title="AWS Educate Introduction to Cloud 101"><img src="https://images.credly.com/size/80x80/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Educate Introduction to Cloud 101" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/792097fe-135f-41b5-a7d6-4ba2b1d1b69e" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/675740d2-24d1-49ce-8636-93ac6d23b509" title="LFS101: Introduction to Linux"><img src="https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="LFS101: Introduction to Linux" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/386cce1d-5aa2-4dc0-a681-5f41fb99a0c3" title="GitHub Foundations"><img src="https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="80" height="80"></a>
