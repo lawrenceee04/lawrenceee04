@@ -24,9 +24,10 @@ Whether I'm integrating APIs, implementing dynamic search features, or refining 
 ---
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/a4397e71-5bc3-428b-bb98-9233c1fc5cf8" title="AWS Educate Introduction to Cloud 101 - Training Badge"><img src="https://images.credly.com/size/80x80/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="AWS Educate Introduction to Cloud 101 - Training Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/792097fe-135f-41b5-a7d6-4ba2b1d1b69e" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/675740d2-24d1-49ce-8636-93ac6d23b509" title="LFS101: Introduction to Linux"><img src="https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="LFS101: Introduction to Linux" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/386cce1d-5aa2-4dc0-a681-5f41fb99a0c3" title="GitHub Foundations"><img src="https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="80" height="80"></a>
-<a href="https://www.credly.com/users/lawrenceee04/badges" title="Postman API Fundamentals Student Expert"><img src="https://images.credly.com/size/80x80/images/47053cdf-606b-4c51-af24-4617e8958238/assertion-Sg0Fzt15Tv6CZhRp48K-Aw_cached_image_20250709-26-hu3f16.png" alt="Postman API Fundamentals Student Expert" width="80" height="80"></a>
+[![Micro-Certification - Welcome to ServiceNow](https://images.credly.com/size/80x80/images/5a1dc59c-5961-40f6-88dd-3e6c366a3620/Credential_Badge_-_Micro-Cert_-_Welcome_to_ServiceNow.png)](https://www.credly.com/badges/b42f6433-e0d6-4b59-8500-bf18e9f4f5ed)
+[![AWS Educate Introduction to Cloud 101 - Training Badge](https://images.credly.com/size/80x80/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob)](https://www.credly.com/badges/a4397e71-5bc3-428b-bb98-9233c1fc5cf8)
+[![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/792097fe-135f-41b5-a7d6-4ba2b1d1b69e)
+[![LFS101: Introduction to Linux](https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](https://www.credly.com/badges/675740d2-24d1-49ce-8636-93ac6d23b509)
+[![GitHub Foundations](https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/386cce1d-5aa2-4dc0-a681-5f41fb99a0c3)
+[![Postman API Fundamentals Student Expert](https://images.credly.com/size/80x80/images/47053cdf-606b-4c51-af24-4617e8958238/assertion-Sg0Fzt15Tv6CZhRp48K-Aw_cached_image_20250709-26-hu3f16.png)](https://www.credly.com/users/lawrenceee04/badges)
 <!--END_SECTION:badges-->
