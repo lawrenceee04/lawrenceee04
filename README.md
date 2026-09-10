@@ -19,7 +19,7 @@ Whether I'm integrating APIs, implementing dynamic search features, or refining 
 ---
 
 <!-- Github Readme Stats -->
-[![Lawrence's Github Stats](https://github-readme-stats.vercel.app/api?username=lawrenceee04&icons=true&bg_color=45,4DFFD6,F1EF79&show_icons=true&hide_title=true&rank_icon=github&number_format=long)](https://github.com/anuraghazra/github-readme-stats)
+[![Lawrence's Github Stats](https://github-stats-extended.vercel.app/api?username=lawrenceee04&icons=true&bg_color=45,4DFFD6,F1EF79&show_icons=true&hide_title=true&rank_icon=github&number_format=long)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
